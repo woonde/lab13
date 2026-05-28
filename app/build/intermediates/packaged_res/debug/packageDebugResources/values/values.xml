@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficulty_entries">
+        <item>Лёгкая</item>
+        <item>Средняя</item>
+        <item>Сложная</item>
+    </string-array>
+    <string-array name="difficulty_values">
+        <item>easy</item>
+        <item>medium</item>
+        <item>hard</item>
+    </string-array>
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MultiWindowApp</string>
+    <style name="Base.Theme.MultiWindowApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+    </style>
+    <style name="CellButton">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#1C4E70</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+    <style name="Theme.MultiWindowApp" parent="Base.Theme.MultiWindowApp"/>
+</resources>

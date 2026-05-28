@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.multiwindowapp-mergeDebugResources-42:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spectator\\.gradle\\caches\\9.4.1\\transforms\\4a03ff25defe3a0b787d210cf11923a3\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

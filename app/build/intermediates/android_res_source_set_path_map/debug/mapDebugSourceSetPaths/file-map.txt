@@ -1,0 +1,8 @@
+com.example.multiwindowapp-pngs-0 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\build\generated\res\pngs\debug
+com.example.multiwindowapp-updated_navigation_xml-1 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\build\generated\updated_navigation_xml\debug
+com.example.multiwindowapp-packageDebugResources-2 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.multiwindowapp-packageDebugResources-3 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.multiwindowapp-debug-4 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.multiwindowapp-debug-5 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\src\debug\res
+com.example.multiwindowapp-main-6 C:\Users\spectator\AndroidStudioProjects\MultiWindowApp\app\src\main\res
+gradleHome-0 C:\Users\spectator\.gradle

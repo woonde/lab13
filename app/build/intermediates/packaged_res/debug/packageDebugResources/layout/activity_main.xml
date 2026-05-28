@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#F4F7FB">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Крестики-нолики"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#0B2B42"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MultiWindowApp"
+        android:textSize="14sp"
+        android:textColor="#5A7482"
+        android:layout_marginBottom="28dp" />
+
+    <TextView
+        android:id="@+id/tvPrefs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Текущие настройки..."
+        android:textSize="15sp"
+        android:textColor="#1C4E70"
+        android:background="#E9F2FA"
+        android:padding="16dp"
+        android:layout_marginBottom="28dp" />
+
+    <Button
+        android:id="@+id/btnGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Играть"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Настройки"
+        android:textSize="18sp"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Выход"
+        android:textSize="18sp" />
+
+</LinearLayout>
